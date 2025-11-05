@@ -8,6 +8,10 @@
 
 This repository contains all materials for the Modern AI assignment focusing on fine-tuning Large Language Models using Unsloth.ai. The assignment demonstrates 5 different training methodologies on the SmolLM2-135M model.
 
+## 🔗 Quick Links
+
+- **Medium Article Link:** https://medium.com/@prachigupta2610/fine-tuning-llms-5-training-methods-with-unsloth-ai-80dc17a05508
+
 ## 🎯 Objectives
 
 - **Colab 1:** Full Fine-tuning on SQL generation task
@@ -102,10 +106,6 @@ All videos demonstrate cell-by-cell code walkthrough, training process, and resu
 - colab3_dpo_reinforcement_learning - https://drive.google.com/file/d/1CfGr90yQFuKUS6g3t2dU7xOQ29WZa0jZ/view?usp=sharing
 - colab4_grpo_reasoning_model - https://drive.google.com/file/d/11zG6CAB67CEc818iUyehKsGY1Y1G3aA5/view?usp=sharing
 - colab5_continued_pretraining - https://drive.google.com/file/d/15JRC32NIlPq_YFwzicqEJPdRj_x0m-7q/view?usp=sharing
-
-## 🔗 Quick Links
-
-- **Medium Article Link:** 
 
 ## 🛠️ Technologies Used
 
