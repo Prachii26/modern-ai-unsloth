@@ -10,13 +10,15 @@ This repository contains all materials for the Modern AI assignment focusing on 
 
 ## 🔗 Quick Links
 
-- **Medium Article Link:** https://medium.com/@prachigupta2610/fine-tuning-llms-5-training-methods-with-unsloth-ai-80dc17a05508
-- **Demo Video Link:**  colab1_full_finetuning - https://drive.google.com/file/d/1G7houDvYA22Z13FYUna5o7d2xRY1OWPD/view?usp=sharing
-                        colab2_lora_finetuning - https://drive.google.com/file/d/1i0rK4mphLLqtwHTDphDw_bAR0Ed1wR8o/view?usp=sharing
-                        colab3_dpo_reinforcement_learning - https://drive.google.com/file/d/1CfGr90yQFuKUS6g3t2dU7xOQ29WZa0jZ/view?usp=sharing
-                        colab4_grpo_reasoning_model - https://drive.google.com/file/d/11zG6CAB67CEc818iUyehKsGY1Y1G3aA5/view?usp=sharing
-                        colab5_continued_pretraining - https://drive.google.com/file/d/15JRC32NIlPq_YFwzicqEJPdRj_x0m-7q/view?usp=sharing
-
+**Medium Article Link:** https://medium.com/@prachigupta2610/fine-tuning-llms-5-training-methods-with-unsloth-ai-80dc17a05508
+  
+**🎥 Video Demonstrations:** All videos demonstrate cell-by-cell code walkthrough, training process, and results analysis
+- colab1_full_finetuning - https://drive.google.com/file/d/1G7houDvYA22Z13FYUna5o7d2xRY1OWPD/view?usp=sharing
+- colab2_lora_finetuning - https://drive.google.com/file/d/1i0rK4mphLLqtwHTDphDw_bAR0Ed1wR8o/view?usp=sharing
+- colab3_dpo_reinforcement_learning - https://drive.google.com/file/d/1CfGr90yQFuKUS6g3t2dU7xOQ29WZa0jZ/view?usp=sharing
+- colab4_grpo_reasoning_model - https://drive.google.com/file/d/11zG6CAB67CEc818iUyehKsGY1Y1G3aA5/view?usp=sharing
+- colab5_continued_pretraining - https://drive.google.com/file/d/15JRC32NIlPq_YFwzicqEJPdRj_x0m-7q/view?usp=sharing
+  
 ## 🎯 Objectives
 
 - **Colab 1:** Full Fine-tuning on SQL generation task
@@ -101,16 +103,6 @@ modern-ai-unsloth-assignment/
 | 3 | DPO | Preferences | 100 | Excellent |
 | 4 | GRPO | Math | 50 | Moderate |
 | 5 | Continued PT | French | 100 | Basic learning |
-
-## 🎥 Video Demonstrations
-
-All videos demonstrate cell-by-cell code walkthrough, training process, and results analysis.
-
-- colab1_full_finetuning - https://drive.google.com/file/d/1G7houDvYA22Z13FYUna5o7d2xRY1OWPD/view?usp=sharing
-- colab2_lora_finetuning - https://drive.google.com/file/d/1i0rK4mphLLqtwHTDphDw_bAR0Ed1wR8o/view?usp=sharing
-- colab3_dpo_reinforcement_learning - https://drive.google.com/file/d/1CfGr90yQFuKUS6g3t2dU7xOQ29WZa0jZ/view?usp=sharing
-- colab4_grpo_reasoning_model - https://drive.google.com/file/d/11zG6CAB67CEc818iUyehKsGY1Y1G3aA5/view?usp=sharing
-- colab5_continued_pretraining - https://drive.google.com/file/d/15JRC32NIlPq_YFwzicqEJPdRj_x0m-7q/view?usp=sharing
 
 ## 🛠️ Technologies Used
 
